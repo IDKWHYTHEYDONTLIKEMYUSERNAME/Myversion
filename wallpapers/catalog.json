@@ -166,19 +166,5 @@
     "author": "Josh",
     "site": "",
     "test": false
-  },
-  {
-    "id": "00024",
-    "title": "CMYK Experiment2",
-    "author": "Josh",
-    "site": "",
-    "test": true
-  },
-  {
-    "id": "00025",
-    "title": "Gray Abbie2",
-    "author": "Josh",
-    "site": "",
-    "test": true
   }
 ]
