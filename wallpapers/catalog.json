@@ -152,5 +152,19 @@
     "author": "Alessandro Santi",
     "site": "http://www.alessandrosantiphoto.it/biography/",
     "test": false
+  },
+  {
+    "id": "00022",
+    "title": "CMYK Experiment",
+    "author": "Josh",
+    "site": "",
+    "test": false
+  },
+  {
+    "id": "00023",
+    "title": "Gray Abbie",
+    "author": "Josh",
+    "site": "",
+    "test": false
   }
 ]
